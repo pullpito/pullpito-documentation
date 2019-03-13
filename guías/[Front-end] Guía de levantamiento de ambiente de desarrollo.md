@@ -6,6 +6,10 @@
 - [Docker compose](https://docs.docker.com/compose/)
 - [Código fuente](https://github.com/pullpito/pullpito-front)
 
+## Stack de tecnologías
+
+- [VueJS](https://vuejs.org/)
+
 ## Levantamiento
 
 1. Clonar el código fuente del [repositorio](https://github.com/pullpito/pullpito-front).
