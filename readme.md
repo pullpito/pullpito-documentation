@@ -1,3 +1,3 @@
-# Pullpito documentation
+# Documentación de Pullpito
 
-Information center for all documentation.
+Centro de documentación del proyecto Pullpito.
