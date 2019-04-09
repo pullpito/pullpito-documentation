@@ -15,6 +15,8 @@
 1. Clonar el código fuente del [repositorio](https://github.com/pullpito/pullpito-front).
 1. En la raiz del directorio de front clonado ejecutar `docker-compose up -d cli`.
 1. Entrar via navegador web a la url del cli: http://localhost:8000.
+1. Importar el proyecto `template`. (Importar de todos modos si no existe el directorio `node_modules`.)
+1. Ejecutar la tarea `npm-install`.
 
 ## Flujo de desarrollo
 
